@@ -25,3 +25,20 @@ Tallis Matus - Ambulans Arbor
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details
 
+
+Concept Proposal:
+  - Project Name: Arbor Ambulans
+  - Goals: My goal is to make a game that shows how reckless consumption of your earth's resources will eventually
+  cause our destruction.
+  - Context: I want to create a game with humanized trees that have to survive in a dead future world, long after humans
+  destroyed it.
+  - Novelty: To my knowledge, it is the first game of its kind with an environmental standpoint, plus it includes
+  an encyclopedia of the real-life equivalents of the characters.
+  - Functionality: This game will be set up in Unity, and will have a simple rpg based system.
+  - Audience: I want to market this towards gamers, since I believe they would be a group that would be unlikely
+  to care about this at first, so motivating them to care is valuable to me.
+  - Challenges: I've never coded in Unity. That will be a challenge.
+  - Measures: I will know I succeeded when I have finished the mechanics and story of the game that properly shows
+  what I want to show.
+  - Motivation: I really love video games, and I want to help save the environment. Also, I like trees.
+  - Future Extensions: More characters, levels, enemies, and story.
