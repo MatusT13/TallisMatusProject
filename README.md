@@ -42,3 +42,10 @@ Concept Proposal:
   what I want to show.
   - Motivation: I really love video games, and I want to help save the environment. Also, I like trees.
   - Future Extensions: More characters, levels, enemies, and story.
+
+  - Number: 1
+- Statement: Combat system
+- Evaluation Method: If the system accurately tracks damage between player and enemy
+- Dependency: None
+- Priority: essential
+- Requirement revision history: first made Sep. 6
