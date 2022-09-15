@@ -49,3 +49,14 @@ Concept Proposal:
 - Dependency: None
 - Priority: essential
 - Requirement revision history: first made Sep. 6
+  - Number: 2
+  Statement: Encyclopedia
+- Evaluation Method: If the system displays information about allies and enemies
+- Dependency: None
+- Priority: essential
+- Requirement revision history: first made Sep. 14
+
+
+
+Notes:
+Current character ideas: northern red oak, crabapple, eastern ironwood, 
