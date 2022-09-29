@@ -63,4 +63,4 @@ A game where a group of humanized trees try to go to a land of safety after find
 
 
 Notes:
-Current character ideas: northern red oak, crabapple, eastern ironwood, 
+Current character ideas: northern red oak, crabapple, eastern ironwood, giant redwood
