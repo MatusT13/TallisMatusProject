@@ -57,6 +57,9 @@ Concept Proposal:
 - Priority: essential
 - Requirement revision history: first made Sep. 14
 
+Design:
+A game where a group of humanized trees try to go to a land of safety after finding a human hidden in a lab.
+
 
 
 Notes:
