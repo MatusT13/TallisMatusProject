@@ -60,6 +60,9 @@ Concept Proposal:
 Design:
 A game where a group of humanized trees try to go to a land of safety after finding a human hidden in a lab.
 
+About:
+Abores Ambulantes is made by Tallis Matus. Tallis Matus is a student at Berea College. He has a passion for classics.
+
 
 
 Notes:
