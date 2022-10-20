@@ -63,7 +63,8 @@ A game where a group of humanized trees try to go to a land of safety after find
 About:
 Abores Ambulantes is made by Tallis Matus. Tallis Matus is a student at Berea College. He has a passion for classics.
 
-
+Issues:
+After jumping, the walk animation doesn't work right.
 
 Notes:
 Current character ideas: northern red oak, crabapple, eastern ironwood, giant redwood
