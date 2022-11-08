@@ -21,6 +21,7 @@ Tallis Matus - Ambulans Arbor
 - all who inspired the idea and/or the code in YourProjectName
 - other people you wish to acknowledge
 - https://www.youtube.com/watch?v=K1xZ-rycYY8 
+- https://medium.com/c-sharp-progarmming/make-smooth-scene-transitions-in-unity-c-6b7c97e4c7e0
 
 ## License (not required initially)
 
@@ -66,5 +67,8 @@ Abores Ambulantes is made by Tallis Matus. Tallis Matus is a student at Berea Co
 Issues:
 After jumping, the walk animation doesn't work right.
 
+Testing Plan:
+My testing plan is to use Unity's unit testing. It is set up to check for Unity, so it's the best option.
+
 Notes:
-Current character ideas: northern red oak, crabapple, eastern ironwood, giant redwood
+Current character ideas: northern red oak, southern crabapple, eastern ironwood, giant redwood
