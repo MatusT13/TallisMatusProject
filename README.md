@@ -70,5 +70,3 @@ After jumping, the walk animation doesn't work right.
 Testing Plan:
 My testing plan is to use Unity's unit testing. It is set up to check for Unity, so it's the best option.
 
-Notes:
-Current character ideas: northern red oak, southern crabapple, eastern ironwood, giant redwood
