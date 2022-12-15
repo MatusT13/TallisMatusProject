@@ -67,6 +67,10 @@ Abores Ambulantes is made by Tallis Matus. Tallis Matus is a student at Berea Co
 Issues:
 After jumping, the walk animation doesn't work right.
 
+Logo:
+I don't have a picture of it, but for my logo, I was hoping to have a figure leaning against a tree with the words
+Ambores Ambulantes underneath it.
+
 Testing Plan:
 My testing plan is to use Unity's unit testing. It is set up to check for Unity, so it's the best option.
 
